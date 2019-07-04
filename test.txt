@@ -1,0 +1,3 @@
+Testowo utworzony plik
+Na potrzeby treningu
+test 123
