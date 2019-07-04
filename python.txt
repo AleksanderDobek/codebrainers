@@ -1,3 +1,8 @@
+HEAD
 Testowo utworzony plik
 Na potrzeby treningu
 test 123
+"""Pierwsza linia
+Druga linia
+Trzecia linia
+emotikony"""
